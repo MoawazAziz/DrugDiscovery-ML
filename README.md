@@ -345,6 +345,3 @@ This repository is released under the MIT License.
 
 University of Electronic Science and Technology of China (UESTC)
 
-Email: your_email@outlook.com
-
-GitHub: https://github.com/YourUsername
